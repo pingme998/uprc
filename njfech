@@ -1,0 +1,11 @@
+fetch("https://production-appsync.degoo.com/graphql", {
+  "headers": {
+    "content-type": "application/json",
+    "x-api-key": "da2-vs6twz5vnjdavpqndtbzg3prra"
+  },
+  "referrer": "",
+  "referrerPolicy": "same-origin",
+  "body": "{\"operationName\":\"SetUploadFile3\",\"variables\":{\"Token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMzNjAzNiIsIm5iZiI6MTYyNjc4ODI1NSwiZXhwIjoxNjI2NzkxODU1LCJpYXQiOjE2MjY3ODgyNTUsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.Kfgu3yTFhb2Iphr8vYcqCKwtiZ7NKlYZAAswaVUX3t0\",\"FileInfos\":[{\"ParentID\":\"15359581629\",\"Checksum\":\"ChS9wbzBrHHtNH0j-IzDOyJm3NigDBAA\",\"Name\":\"rclone-master.zip\",\"Size\":\"15735377\",\"CreationTime\":\"1626788541030\"}]},\"query\":\"mutation SetUploadFile3($Token: String!, $FileInfos: [FileInfoUpload3]!) {\\n    setUploadFile3(Token: $Token, FileInfos: $FileInfos)\\n  }\"}",
+  "method": "POST",
+  "mode": "cors"
+});
