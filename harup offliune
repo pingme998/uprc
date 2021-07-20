@@ -1,0 +1,1680 @@
+{
+  "log": {
+    "version": "1.2",
+    "creator": {
+      "name": "WebInspector",
+      "version": "537.36"
+    },
+    "pages": [],
+    "entries": [
+      {
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "",
+                "scriptId": "34",
+                "url": "https://app.degoo.com/polyfills-es2015.04cb6cf2b00bfa357ac4.js",
+                "lineNumber": 0,
+                "columnNumber": 21964
+              },
+              {
+                "functionName": "O.r.<computed>",
+                "scriptId": "34",
+                "url": "https://app.degoo.com/polyfills-es2015.04cb6cf2b00bfa357ac4.js",
+                "lineNumber": 0,
+                "columnNumber": 16574
+              },
+              {
+                "functionName": "r",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 72690
+              },
+              {
+                "functionName": "",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 73252
+              },
+              {
+                "functionName": "D",
+                "scriptId": "34",
+                "url": "https://app.degoo.com/polyfills-es2015.04cb6cf2b00bfa357ac4.js",
+                "lineNumber": 0,
+                "columnNumber": 21034
+              },
+              {
+                "functionName": "O",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 72994
+              },
+              {
+                "functionName": "s",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 74097
+              },
+              {
+                "functionName": "",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 74842
+              },
+              {
+                "functionName": "D",
+                "scriptId": "34",
+                "url": "https://app.degoo.com/polyfills-es2015.04cb6cf2b00bfa357ac4.js",
+                "lineNumber": 0,
+                "columnNumber": 21034
+              },
+              {
+                "functionName": "send",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 74584
+              },
+              {
+                "functionName": "",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 99527
+              },
+              {
+                "functionName": "",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 75194
+              },
+              {
+                "functionName": "D",
+                "scriptId": "34",
+                "url": "https://app.degoo.com/polyfills-es2015.04cb6cf2b00bfa357ac4.js",
+                "lineNumber": 0,
+                "columnNumber": 21034
+              },
+              {
+                "functionName": "T",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 74942
+              },
+              {
+                "functionName": "",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 99475
+              },
+              {
+                "functionName": "",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 100116
+              },
+              {
+                "functionName": "_tryNext",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 4860
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 4778
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6355
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 29719
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6355
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 76285
+              },
+              {
+                "functionName": "_trySubscribe",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 13708
+              },
+              {
+                "functionName": "subscribe",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 13516
+              },
+              {
+                "functionName": "connect",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 11723
+              },
+              {
+                "functionName": "call",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 304858
+              },
+              {
+                "functionName": "subscribe",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 13394
+              },
+              {
+                "functionName": "call",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 4517
+              },
+              {
+                "functionName": "subscribe",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 13394
+              },
+              {
+                "functionName": "",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 14274
+              },
+              {
+                "functionName": "D",
+                "scriptId": "34",
+                "url": "https://app.degoo.com/polyfills-es2015.04cb6cf2b00bfa357ac4.js",
+                "lineNumber": 0,
+                "columnNumber": 21034
+              },
+              {
+                "functionName": "toPromise",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 14243
+              },
+              {
+                "functionName": "getWriteAuth",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 100465
+              },
+              {
+                "functionName": "",
+                "scriptId": "42",
+                "url": "https://app.degoo.com/21-es2015.96773190fff5275f0373.js",
+                "lineNumber": 0,
+                "columnNumber": 7056
+              },
+              {
+                "functionName": "_tryNext",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 4860
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 4778
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 213472
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 213472
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 29719
+              },
+              {
+                "functionName": "",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 134737
+              },
+              {
+                "functionName": "__tryOrUnsub",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 7963
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 7184
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6355
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "_tryNext",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 18328
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 18138
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 155013
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "observe",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 27814
+              },
+              {
+                "functionName": "dispatch",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 147384
+              },
+              {
+                "functionName": "_execute",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 3540
+              },
+              {
+                "functionName": "execute",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 150514
+              },
+              {
+                "functionName": "flush",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 15186
+              },
+              {
+                "functionName": "schedule",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 150435
+              },
+              {
+                "functionName": "schedule",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 14776
+              },
+              {
+                "functionName": "schedule",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 15071
+              },
+              {
+                "functionName": "scheduleMessage",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 147469
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 147542
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 29719
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 898
+              },
+              {
+                "functionName": "next",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 131134
+              },
+              {
+                "functionName": "next",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 135414
+              },
+              {
+                "functionName": "__tryOrUnsub",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 7963
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 7184
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6355
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "notifyNext",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 5208
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 401704
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "notifyNext",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 5208
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 401704
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "observe",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 27814
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 15304
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 213472
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 192724
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "notifyNext",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 15063
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 401704
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "notifyNext",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 5208
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 401704
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 192724
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 14028
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6355
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "notifyNext",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 5208
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 401704
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 193629
+              },
+              {
+                "functionName": "c",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 402063
+              },
+              {
+                "functionName": "_innerSub",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 5034
+              },
+              {
+                "functionName": "_tryNext",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 4939
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 4778
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 192724
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 213472
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "notifyNext",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 5208
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 401704
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 15726
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 130197
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 192724
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "_subscribe",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 765
+              },
+              {
+                "functionName": "_trySubscribe",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 13708
+              },
+              {
+                "functionName": "_trySubscribe",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 30216
+              },
+              {
+                "functionName": "subscribe",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 13516
+              },
+              {
+                "functionName": "_subscribe",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 14133
+              },
+              {
+                "functionName": "subscribe",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 13497
+              },
+              {
+                "functionName": "call",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 192448
+              },
+              {
+                "functionName": "subscribe",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 13394
+              },
+              {
+                "functionName": "call",
+                "scriptId": "40",
+                "url": "https://app.degoo.com/15-es2015.0b76cbfafde7e019cc6f.js",
+                "lineNumber": 0,
+                "columnNumber": 129741
+              },
+              {
+                "functionName": "subscribe",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 13394
+              },
+              {
+                "functionName": "call",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 15555
+              },
+              {
+                "functionName": "subscribe",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 13394
+              },
+              {
+                "functionName": "c",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 402036
+              },
+              {
+                "functionName": "_innerSub",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 5034
+              },
+              {
+                "functionName": "_tryNext",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 4939
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 4778
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "_next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 213472
+              },
+              {
+                "functionName": "next",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 6129
+              },
+              {
+                "functionName": "closeContext",
+                "scriptId": "42",
+                "url": "https://app.degoo.com/21-es2015.96773190fff5275f0373.js",
+                "lineNumber": 0,
+                "columnNumber": 4518
+              },
+              {
+                "functionName": "f",
+                "scriptId": "42",
+                "url": "https://app.degoo.com/21-es2015.96773190fff5275f0373.js",
+                "lineNumber": 0,
+                "columnNumber": 4657
+              },
+              {
+                "functionName": "_execute",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 3540
+              },
+              {
+                "functionName": "execute",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 3385
+              },
+              {
+                "functionName": "flush",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 15186
+              },
+              {
+                "functionName": "s.<computed>",
+                "scriptId": "34",
+                "url": "https://app.degoo.com/polyfills-es2015.04cb6cf2b00bfa357ac4.js",
+                "lineNumber": 0,
+                "columnNumber": 35306
+              },
+              {
+                "functionName": "invokeTask",
+                "scriptId": "34",
+                "url": "https://app.degoo.com/polyfills-es2015.04cb6cf2b00bfa357ac4.js",
+                "lineNumber": 0,
+                "columnNumber": 10408
+              },
+              {
+                "functionName": "onInvokeTask",
+                "scriptId": "35",
+                "url": "https://app.degoo.com/main-es2015.14be3d2c2543d30e3466.js",
+                "lineNumber": 0,
+                "columnNumber": 162484
+              },
+              {
+                "functionName": "invokeTask",
+                "scriptId": "34",
+                "url": "https://app.degoo.com/polyfills-es2015.04cb6cf2b00bfa357ac4.js",
+                "lineNumber": 0,
+                "columnNumber": 10329
+              },
+              {
+                "functionName": "runTask",
+                "scriptId": "34",
+                "url": "https://app.degoo.com/polyfills-es2015.04cb6cf2b00bfa357ac4.js",
+                "lineNumber": 0,
+                "columnNumber": 5817
+              },
+              {
+                "functionName": "invokeTask",
+                "scriptId": "34",
+                "url": "https://app.degoo.com/polyfills-es2015.04cb6cf2b00bfa357ac4.js",
+                "lineNumber": 0,
+                "columnNumber": 11458
+              },
+              {
+                "functionName": "invoke",
+                "scriptId": "34",
+                "url": "https://app.degoo.com/polyfills-es2015.04cb6cf2b00bfa357ac4.js",
+                "lineNumber": 0,
+                "columnNumber": 11360
+              },
+              {
+                "functionName": "n.args.<computed>",
+                "scriptId": "34",
+                "url": "https://app.degoo.com/polyfills-es2015.04cb6cf2b00bfa357ac4.js",
+                "lineNumber": 0,
+                "columnNumber": 35019
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "request": {
+          "method": "POST",
+          "url": "https://production-appsync.degoo.com/graphql",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": ""
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+            },
+            {
+              "name": "x-api-key",
+              "value": "da2-vs6twz5vnjdavpqndtbzg3prra"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 975,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{\"operationName\":\"GetBucketWriteAuth4\",\"variables\":{\"Token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMzNjAzNiIsIm5iZiI6MTYyNjc4ODI1NSwiZXhwIjoxNjI2NzkxODU1LCJpYXQiOjE2MjY3ODgyNTUsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.Kfgu3yTFhb2Iphr8vYcqCKwtiZ7NKlYZAAswaVUX3t0\",\"ParentID\":\"15359581629\",\"StorageUploadInfos\":[{\"FileName\":\"rclone-master.zip\",\"Checksum\":\"ChS9wbzBrHHtNH0j-IzDOyJm3NigDBAA\",\"Size\":\"15735377\"}]},\"query\":\"query GetBucketWriteAuth4(\\n    $Token: String!\\n    $ParentID: String!\\n    $StorageUploadInfos: [StorageUploadInfo2]\\n  ) {\\n    getBucketWriteAuth4(\\n      Token: $Token\\n      ParentID: $ParentID\\n      StorageUploadInfos: $StorageUploadInfos\\n    ) {\\n      AuthData {\\n        PolicyBase64\\n        Signature\\n        BaseURL\\n        KeyPrefix\\n        AccessKey {\\n          Key\\n          Value\\n        }\\n        ACL\\n        AdditionalBody {\\n          Key\\n          Value\\n        }\\n      }\\n      Error\\n    }\\n  }\"}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "date",
+              "value": "Tue, 20 Jul 2021 13:42:43 GMT"
+            },
+            {
+              "name": "content-encoding",
+              "value": "br"
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "DYNAMIC"
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "x-amz-cf-pop",
+              "value": "BOM51-C1, BOM50-C1"
+            },
+            {
+              "name": "x-amzn-requestid",
+              "value": "bf831f2e-1033-4bad-9d07-31964db0bbc2"
+            },
+            {
+              "name": "expect-ct",
+              "value": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\""
+            },
+            {
+              "name": "x-cache",
+              "value": "Miss from cloudfront"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json;charset=UTF-8"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "x-amzn-RequestId,x-amzn-ErrorType,x-amz-user-agent,x-amzn-ErrorMessage,Date,x-amz-schema-version"
+            },
+            {
+              "name": "cf-ray",
+              "value": "671c9d443c35d59b-BOM"
+            },
+            {
+              "name": "x-amz-cf-id",
+              "value": "kcVgziaGvjDbh1CRxJREFabbmTskSl4mav-SwTu9S_BSjpHjjFctLg=="
+            },
+            {
+              "name": "via",
+              "value": "1.1 079a1d205fa4879e35e2e37bb178c425.cloudfront.net (CloudFront), 1.1 1ac7b211004c384b6f277848694ff2a6.cloudfront.net (CloudFront)"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 978,
+            "mimeType": "application/json"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "_error": null
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2021-07-20T13:42:42.377Z",
+        "time": 1056.698000000324,
+        "timings": {
+          "blocked": 3.725999996878207,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.0010000000000000009,
+          "wait": 1045.1780000064093,
+          "receive": 7.792999997036532,
+          "_blocked_queueing": 3.6229999968782067
+        }
+      },
+      {
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "",
+                "scriptId": "3",
+                "url": "https://app.degoo.com/ngsw-worker-polyfill.js",
+                "lineNumber": 2821,
+                "columnNumber": 44
+              },
+              {
+                "functionName": "",
+                "scriptId": "3",
+                "url": "https://app.degoo.com/ngsw-worker-polyfill.js",
+                "lineNumber": 208,
+                "columnNumber": 74
+              },
+              {
+                "functionName": "__awaiter",
+                "scriptId": "3",
+                "url": "https://app.degoo.com/ngsw-worker-polyfill.js",
+                "lineNumber": 194,
+                "columnNumber": 15
+              },
+              {
+                "functionName": "safeFetch",
+                "scriptId": "3",
+                "url": "https://app.degoo.com/ngsw-worker-polyfill.js",
+                "lineNumber": 2819,
+                "columnNumber": 19
+              },
+              {
+                "functionName": "",
+                "scriptId": "3",
+                "url": "https://app.degoo.com/ngsw-worker-polyfill.js",
+                "lineNumber": 2248,
+                "columnNumber": 32
+              },
+              {
+                "functionName": "fulfilled",
+                "scriptId": "3",
+                "url": "https://app.degoo.com/ngsw-worker-polyfill.js",
+                "lineNumber": 196,
+                "columnNumber": 31
+              }
+            ],
+            "parent": {
+              "description": "Promise.then",
+              "callFrames": [
+                {
+                  "functionName": "step",
+                  "scriptId": "3",
+                  "url": "https://app.degoo.com/ngsw-worker-polyfill.js",
+                  "lineNumber": 207,
+                  "columnNumber": 94
+                },
+                {
+                  "functionName": "fulfilled",
+                  "scriptId": "3",
+                  "url": "https://app.degoo.com/ngsw-worker-polyfill.js",
+                  "lineNumber": 196,
+                  "columnNumber": 16
+                }
+              ],
+              "parent": {
+                "description": "Promise.then",
+                "callFrames": [
+                  {
+                    "functionName": "step",
+                    "scriptId": "3",
+                    "url": "https://app.degoo.com/ngsw-worker-polyfill.js",
+                    "lineNumber": 207,
+                    "columnNumber": 94
+                  },
+                  {
+                    "functionName": "fulfilled",
+                    "scriptId": "3",
+                    "url": "https://app.degoo.com/ngsw-worker-polyfill.js",
+                    "lineNumber": 196,
+                    "columnNumber": 16
+                  }
+                ],
+                "parent": {
+                  "description": "Promise.then",
+                  "callFrames": [
+                    {
+                      "functionName": "step",
+                      "scriptId": "3",
+                      "url": "https://app.degoo.com/ngsw-worker-polyfill.js",
+                      "lineNumber": 207,
+                      "columnNumber": 94
+                    },
+                    {
+                      "functionName": "",
+                      "scriptId": "3",
+                      "url": "https://app.degoo.com/ngsw-worker-polyfill.js",
+                      "lineNumber": 208,
+                      "columnNumber": 12
+                    },
+                    {
+                      "functionName": "__awaiter",
+                      "scriptId": "3",
+                      "url": "https://app.degoo.com/ngsw-worker-polyfill.js",
+                      "lineNumber": 194,
+                      "columnNumber": 15
+                    },
+                    {
+                      "functionName": "handleFetch",
+                      "scriptId": "3",
+                      "url": "https://app.degoo.com/ngsw-worker-polyfill.js",
+                      "lineNumber": 2203,
+                      "columnNumber": 19
+                    },
+                    {
+                      "functionName": "onFetch",
+                      "scriptId": "3",
+                      "url": "https://app.degoo.com/ngsw-worker-polyfill.js",
+                      "lineNumber": 2047,
+                      "columnNumber": 35
+                    },
+                    {
+                      "functionName": "",
+                      "scriptId": "3",
+                      "url": "https://app.degoo.com/ngsw-worker-polyfill.js",
+                      "lineNumber": 1956,
+                      "columnNumber": 65
+                    }
+                  ],
+                  "parentId": {
+                    "id": "27",
+                    "debuggerId": "-4704975008175178920.-2795747086237613182"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "connection": "706",
+        "request": {
+          "method": "POST",
+          "url": "https://production-appsync.degoo.com/graphql",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": ":method",
+              "value": "POST"
+            },
+            {
+              "name": ":authority",
+              "value": "production-appsync.degoo.com"
+            },
+            {
+              "name": ":scheme",
+              "value": "https"
+            },
+            {
+              "name": ":path",
+              "value": "/graphql"
+            },
+            {
+              "name": "content-length",
+              "value": "975"
+            },
+            {
+              "name": "accept",
+              "value": "*/*"
+            },
+            {
+              "name": "user-agent",
+              "value": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+            },
+            {
+              "name": "x-api-key",
+              "value": "da2-vs6twz5vnjdavpqndtbzg3prra"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            },
+            {
+              "name": "origin",
+              "value": "https://app.degoo.com"
+            },
+            {
+              "name": "sec-fetch-site",
+              "value": "same-site"
+            },
+            {
+              "name": "sec-fetch-mode",
+              "value": "cors"
+            },
+            {
+              "name": "sec-fetch-dest",
+              "value": "empty"
+            },
+            {
+              "name": "accept-encoding",
+              "value": "gzip, deflate, br"
+            },
+            {
+              "name": "accept-language",
+              "value": "en-US,en;q=0.9"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 975,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{\"operationName\":\"GetBucketWriteAuth4\",\"variables\":{\"Token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMzNjAzNiIsIm5iZiI6MTYyNjc4ODI1NSwiZXhwIjoxNjI2NzkxODU1LCJpYXQiOjE2MjY3ODgyNTUsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.Kfgu3yTFhb2Iphr8vYcqCKwtiZ7NKlYZAAswaVUX3t0\",\"ParentID\":\"15359581629\",\"StorageUploadInfos\":[{\"FileName\":\"rclone-master.zip\",\"Checksum\":\"ChS9wbzBrHHtNH0j-IzDOyJm3NigDBAA\",\"Size\":\"15735377\"}]},\"query\":\"query GetBucketWriteAuth4(\\n    $Token: String!\\n    $ParentID: String!\\n    $StorageUploadInfos: [StorageUploadInfo2]\\n  ) {\\n    getBucketWriteAuth4(\\n      Token: $Token\\n      ParentID: $ParentID\\n      StorageUploadInfos: $StorageUploadInfos\\n    ) {\\n      AuthData {\\n        PolicyBase64\\n        Signature\\n        BaseURL\\n        KeyPrefix\\n        AccessKey {\\n          Key\\n          Value\\n        }\\n        ACL\\n        AdditionalBody {\\n          Key\\n          Value\\n        }\\n      }\\n      Error\\n    }\\n  }\"}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "date",
+              "value": "Tue, 20 Jul 2021 13:42:43 GMT"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json;charset=UTF-8"
+            },
+            {
+              "name": "x-amzn-requestid",
+              "value": "bf831f2e-1033-4bad-9d07-31964db0bbc2"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "x-amzn-RequestId,x-amzn-ErrorType,x-amz-user-agent,x-amzn-ErrorMessage,Date,x-amz-schema-version"
+            },
+            {
+              "name": "via",
+              "value": "1.1 079a1d205fa4879e35e2e37bb178c425.cloudfront.net (CloudFront), 1.1 1ac7b211004c384b6f277848694ff2a6.cloudfront.net (CloudFront)"
+            },
+            {
+              "name": "x-amz-cf-pop",
+              "value": "BOM51-C1"
+            },
+            {
+              "name": "x-amz-cf-pop",
+              "value": "BOM50-C1"
+            },
+            {
+              "name": "x-cache",
+              "value": "Miss from cloudfront"
+            },
+            {
+              "name": "x-amz-cf-id",
+              "value": "kcVgziaGvjDbh1CRxJREFabbmTskSl4mav-SwTu9S_BSjpHjjFctLg=="
+            },
+            {
+              "name": "cf-cache-status",
+              "value": "DYNAMIC"
+            },
+            {
+              "name": "expect-ct",
+              "value": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\""
+            },
+            {
+              "name": "server",
+              "value": "cloudflare"
+            },
+            {
+              "name": "cf-ray",
+              "value": "671c9d443c35d59b-BOM"
+            },
+            {
+              "name": "content-encoding",
+              "value": "br"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 978,
+            "mimeType": "application/json"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 1023,
+          "_error": null
+        },
+        "serverIPAddress": "104.18.228.238",
+        "startedDateTime": "2021-07-20T13:42:42.395Z",
+        "time": 1026.6459999838844,
+        "timings": {
+          "blocked": 25.371999989125875,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 2.8550000000000004,
+          "wait": 977.3920000140816,
+          "receive": 21.02699998067692,
+          "_blocked_queueing": 15.248999989125878
+        }
+      },
+      {
+        "_initiator": {
+          "type": "preflight",
+          "url": "https://storage-upload.googleapis.com/degoo-production-large-file-europe-west1.degoo.eu/"
+        },
+        "_priority": "High",
+        "_resourceType": "preflight",
+        "cache": {},
+        "connection": "2897",
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://storage-upload.googleapis.com/degoo-production-large-file-europe-west1.degoo.eu/",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": ":method",
+              "value": "OPTIONS"
+            },
+            {
+              "name": ":authority",
+              "value": "storage-upload.googleapis.com"
+            },
+            {
+              "name": ":scheme",
+              "value": "https"
+            },
+            {
+              "name": ":path",
+              "value": "/degoo-production-large-file-europe-west1.degoo.eu/"
+            },
+            {
+              "name": "accept",
+              "value": "*/*"
+            },
+            {
+              "name": "access-control-request-method",
+              "value": "POST"
+            },
+            {
+              "name": "access-control-request-headers",
+              "value": "ngsw-bypass"
+            },
+            {
+              "name": "origin",
+              "value": "https://app.degoo.com"
+            },
+            {
+              "name": "user-agent",
+              "value": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+            },
+            {
+              "name": "sec-fetch-mode",
+              "value": "cors"
+            },
+            {
+              "name": "sec-fetch-site",
+              "value": "cross-site"
+            },
+            {
+              "name": "sec-fetch-dest",
+              "value": "empty"
+            },
+            {
+              "name": "accept-encoding",
+              "value": "gzip, deflate, br"
+            },
+            {
+              "name": "accept-language",
+              "value": "en-US,en;q=0.9"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "x-guploader-uploadid",
+              "value": "ADPycdtJ-mcVAmJNGGIvqZGbEYPfMzY2QmuqODdtoIVBNxanMaKmJPjaI_o_tHx92kajjxinzcLqOolvZ2QVjd_4FnNozt7zKA"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "https://app.degoo.com"
+            },
+            {
+              "name": "access-control-max-age",
+              "value": "86400"
+            },
+            {
+              "name": "access-control-allow-methods",
+              "value": "POST"
+            },
+            {
+              "name": "access-control-allow-headers",
+              "value": "ngsw-bypass"
+            },
+            {
+              "name": "vary",
+              "value": "Origin"
+            },
+            {
+              "name": "date",
+              "value": "Tue, 20 Jul 2021 13:42:44 GMT"
+            },
+            {
+              "name": "expires",
+              "value": "Tue, 20 Jul 2021 13:42:44 GMT"
+            },
+            {
+              "name": "cache-control",
+              "value": "private, max-age=0"
+            },
+            {
+              "name": "content-length",
+              "value": "0"
+            },
+            {
+              "name": "server",
+              "value": "UploadServer"
+            },
+            {
+              "name": "content-type",
+              "value": "text/html; charset=UTF-8"
+            },
+            {
+              "name": "alt-svc",
+              "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 0,
+            "mimeType": "text/html"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "_error": null
+        },
+        "serverIPAddress": "172.217.167.144",
+        "startedDateTime": "2021-07-20T13:42:43.522Z",
+        "time": 1023.2590000114812,
+        "timings": {
+          "blocked": 4.981,
+          "dns": 207.70600000000002,
+          "ssl": 94.23999999999998,
+          "connect": 321.76300000000003,
+          "send": 2.9639999999999986,
+          "wait": 475.5269999963771,
+          "receive": 10.31800001510419,
+          "_blocked_queueing": -1
+        }
+      }
+    ]
+  }
+}
